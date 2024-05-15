@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    border-top: 50px solid orange;
+    border-left: 50px solid orange;
+    border-right: 50px solid orange;
+}
+h2{
+    text-align: start;
+    padding-left: 5%;
+}
+h3{
+    text-align: start;
+}
+h4{
+    padding-left: 20%;
+}
+.foto{
+     text-align: center;
+}
+.info{
+    color: blue;
+}
+.info h2,h4{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.datos{
+    color: blue;
+    margin-top: 50px;
+}
+.datos h6{
+    margin-top: 20px;
+}
+.contenedor{
+    margin: 20px;
+}
+.contenedor div{
+margin-top: 10px;
+padding: 20px 20px 20px 17px;
+}
+.d1{
+    border: 1px solid red;
+    height: 200px;
+}
+.d2{
+    border: 1px solid red;
+}
+.d2 i{
+    padding: 15px 20px;
+    border: 1px solid red;
+    border-radius: 50%;
+}
+.d2 h6{
+    margin-top: 10px;
+    text-align: center;
+}
+.d3{
+    border: 1px solid red;
+}
+.d4{
+    border: 1px solid red;
+    height: 400px;
+}
+.d5{
+    border: 1px solid red;
+}
+.d6{
+    margin-top: 10px;
+    padding: 20px;
+    border: 1px solid red;
+}
+hr{
+    border: 1px solid red;
+    width: 40%;
+}
+.frames{
+    margin: 20px;
+}
+.point hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+footer{
+    border-left: 50px solid blue;
+    border-right: 50px solid blue;
+    border-bottom: 50px solid blue;
+}
